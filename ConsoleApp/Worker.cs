@@ -13,7 +13,7 @@ namespace ExceptionDriven.ConsoleApp
 
         public void SayHello(string text)
         {
-            Console.WriteLine($"Hello, {text}");
+            Console.WriteLine($"Hello World, {text}!");
             Console.ReadKey();
         }
     }

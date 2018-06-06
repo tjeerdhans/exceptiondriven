@@ -1,11 +1,8 @@
-﻿using System.Linq;
-using System.Reflection;
-
-namespace ExceptionDriven.ConsoleApp
+﻿namespace ExceptionDriven.ConsoleApp
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             try
             {
