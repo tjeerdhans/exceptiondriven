@@ -1,5 +1,7 @@
 # Exception Driven Development
 
+> Watch a lightning talk about Exception Driven Development at https://www.infoq.com/presentations/joy-coding-2018-lightning-talks 
+
 This is Hello World, run by exception. 
 
 In other words, it throws exceptions around in order to invoke methods. I know, it's exceptionally crazy.
